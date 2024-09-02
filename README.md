@@ -1,9 +1,9 @@
-# 👋 Hello I am @JeanJantara
+# Hello I'm @JeanJantara
 
-- 💻 I,m a ruby developer at BRQ
-- 👀 I’m interested in Ruby, JS, PHP
-- 🌱 I’m currently learning Ruby on Rails, VueJS, Cloud C.
-- 💞️ I’m looking to collaborate on any Ruby or JS project
+- 💻 Ruby developer at BRQ
+- 👀 Interested in Ruby, JS, PHP and Java
+- 🌱 Currently learning Ruby on Rails, VueJS, Cloud C, Java(Spring...)
+- 💞️ Looking to collaborate on any Ruby, JS or Java project
 
 ## 📫 How to reach me 
 [![Gmail](https://img.shields.io/badge/gmail-jeanjantara@gmail.com-dfdfdf.svg?&style=for-the-badge&logo=gmail)](mailto:jeanjantara@gmail.com)
@@ -18,3 +18,5 @@
 [![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![JS](https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![VUE](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
