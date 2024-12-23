@@ -1,9 +1,5 @@
-# Hello I'm @JeanJantara
-
-- 💻 Ruby developer at BRQ
-- 👀 Interested in Ruby, JS, PHP and Java
-- 🌱 Currently learning Ruby on Rails, VueJS, Cloud C, Java(Spring...)
-- 💞️ Looking to collaborate on any Ruby, JS or Java project
+- 💻 Java developer at BRQ
+- 🌱 Currently learning Cloud C, Java(Spring...)
 
 ## 📫 How to reach me 
 [![Gmail](https://img.shields.io/badge/gmail-jeanjantara@gmail.com-dfdfdf.svg?&style=for-the-badge&logo=gmail)](mailto:jeanjantara@gmail.com)
