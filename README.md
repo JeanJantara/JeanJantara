@@ -1,10 +1,10 @@
 ## About
-- 💻 Java developer at BRQ
-- 🌱 Currently learning Cloud C, Java(Spring...)
+- 💻 Software Specialist at @Bling
+- 🌱 Currently learning Cloud C, GO, IA Driven
 
 ## 📫 How to reach me 
 [![Gmail](https://img.shields.io/badge/gmail-jeanjantara@gmail.com-dfdfdf.svg?&style=for-the-badge&logo=gmail)](mailto:jeanjantara@gmail.com)
-[![Mail](https://img.shields.io/badge/email-jantara@brq.com-dfdfdf.svg?&style=for-the-badge)](mailto:jantara@brq.com)
+[![Mail](https://img.shields.io/badge/email-jantara@brq.com-dfdfdf.svg?&style=for-the-badge)](mailto:jean.jantara@bling.com.br)
 [![Instagram](https://img.shields.io/badge/instagram-jean.jantara-dd247b.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/jean.jantara/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-jantara-1da1f2.svg?&style=for-the-badge&logo=linkedin)](https://uk.linkedin.com/in/jantara/)
 
