@@ -1,5 +1,5 @@
 ## About
-- 💻 Software Specialist at @Bling
+- 💻 Software Specialist at Bling
 - 🌱 Currently learning Cloud C, GO, IA Driven
 
 ## 📫 How to reach me 
